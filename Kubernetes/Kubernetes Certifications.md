@@ -1,0 +1,2 @@
+K8 Administrator (CKA): https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+K8 Security Specialist (CKS): https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/

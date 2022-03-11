@@ -1,0 +1,115 @@
+## The NMAP Organization provides quality lists for Security Researchers that seem of value. Time will tell. 
+- Secruity lists
+	- nmap announce 	## List of announcements regarding changes to nmap by the organization, list appears current
+	- nmap dev			## Publicly accessible notes regarding updates to nmap dev cycles
+	- bugtraq			## Any bug informaiton added to nmap databases ? 
+	- full disclosure	## Vulnerability public disclosures in current products
+	- pen test			## Lists sharing tools, tactics, and strategies shared by the security researcher community
+	- basics			## A lists for noobs to ask questions safely without being beat to heck by the more experienced 
+	- more				## A treasure trove of resources for anyone in the Security Research field
+
+## The NMAP Organization provides lists of Security Researchers favorite tools based on category
+- Security Tools ## Large collection of security community's favorite tools. Category filters below. More then 125 tools in the list
+	- Password Audits
+		- Aircrack 
+		- Cain and Able
+		- John the Ripper
+		- THC Hydra
+		- ophcrack
+		- Medusa
+		- fgdump
+		- l0phtCrack
+		- SolarWinds
+		- rainbowCrack
+		- Wfuzz
+		- Brutus
+	- Sniffers
+		- Wireshark
+		- Cain and Able
+		- tcpdump
+		- Kismet
+		- Ettercap
+		- NetStumbler
+		- dsniff
+		- Ntop
+		- NGrep
+		- EtherApe
+		- NetworkMiner
+		- P0f
+		- inSSiDer
+		- KisMAC
+	- Vuln Scanners
+		- Nessus
+		- OpenVAS
+		- Core Impact
+		- Nexpose
+		- GFI LanGuard
+		- QualysGuard
+		- MBSA
+		- Retina
+		- Secunia PSI
+		- Nipper
+		- SAINT Security Suite
+	- Web Scanners
+		- Burpe Suite
+		- Nikto
+		- w3af
+		- Paros Proxy
+		- WebScarab
+		- sqlmap
+		- skipfish
+		- Acunetix
+		- AppScan
+		- Netsparker
+		- HP WebInspect
+		- Wikto
+		- Samurai Web Testing Framework (new?)
+		- FireBug
+		- ratproxy
+		- Websecurity
+		- Grendel-Scan
+		- DirBuster
+		- WFuzz
+		- Wapiti
+	- Wireless
+		- Aircrack
+		- Kismet
+		- NetStumbler
+		- inSSIDer
+		- KisMAC
+	- Exploitation
+		- Metasploit
+		- w3af
+		- CoreImpact
+		- sqlmap
+		- Canvas
+		- Social Engineering Toolkit
+		- sqlninja
+		- Netsparker
+		- BeEF
+		- Dradis
+		- WebGoat
+	- Packet Crafters
+	- All Categories
+		- Antimalware
+		- Application Specific Scanners
+		- Encryption Tools
+		- Debuggers
+		- Fuzzers
+		- General Purpose tools
+		- Intrusion detection systems
+		- packet crafting tools
+		- Password Auditing
+		- Port Scanners
+		- Rootkit Detectors
+		- Security-oriented operating systems
+		- Packet sniffers
+		- Vulnerability Exploitation Tools
+		- Traffic Monitoring Tools
+		- Vulnerability Scanners
+		- Web Proxies
+		- Web Vulnerability Scanners
+		- Wireless tools
+		
+
+``
